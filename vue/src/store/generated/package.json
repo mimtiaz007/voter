@@ -1,0 +1,17 @@
+{
+  "name": "cosmonaut-voter-js",
+  "version": "0.1.0",
+  "description": "Bounce-Back-Foundation Foundation cosmos modules vuex store",
+  "author": "Bounce-Back-Foundation Foundation Codegen <hello@bouncebackdigital.org>",  
+  "license": "Apache-2.0",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,2 +1,0 @@
-# voter
-COSMOS Voting App
